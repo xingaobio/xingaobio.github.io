@@ -19,3 +19,7 @@ layout: default
 
 - Mobile: 
 - Email: xingaouk@gmail.com
+
+## Links
+
+- [Linkedin](https://www.linkedin.com/in/xin-gao-5b0b80a3/)
