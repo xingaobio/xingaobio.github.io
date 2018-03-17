@@ -15,9 +15,7 @@ layout: default
 
 ## Publications
 
-
-
 ## Contacts
 
-- Mobile:
-- Email: 
+- Mobile: 
+- Email: xingaouk@gmail.com
