@@ -10,7 +10,7 @@ Hi I'm Xin Gao.
 
 - **University College London**, Ph.D in Division of Medicine.
 <br>_Jan 2018 — Jan 2021_
-<br>I focus on the effect of N-glycosylation on the dimerization of complement Factor H and its SCR-17/18 domainscccomplement proteins which associated with inflammatory diseases, like Age-relative Macular Degeneration (AMD) and atypical Haemolytic Uraemic Syndrome (aHUS). A series research will be conduct include the protein structure analysis, gene analysis, and computational modelling.
+<br>I focus on the effect of N-glycosylation on the dimerization of complement Factor H and its SCR-17/18 domains complement proteins which associated with inflammatory diseases, like Age-relative Macular Degeneration (AMD) and atypical Haemolytic Uraemic Syndrome (aHUS). A series research will be conduct include the protein structure analysis, gene analysis, and computational modelling.
   
 - **University College London**  M.Sc in Drug Design
 <br>_Sep 2015 - Oct 2016_
