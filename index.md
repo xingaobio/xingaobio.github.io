@@ -3,9 +3,8 @@ layout: default
 ---
 
 # About Me
-<p style="text-align: justify;">
 Hi, I am a Ph.D student in the [Department of Structure and Molecular Biology](https://www.ucl.ac.uk/biosciences/departments/smb) at University College london. Currently, I focus on the effect of N-glycosylation on the dimerization of complement Factor H and its SCR-17/18 domains complement proteins which associated with inflammatory diseases, like Age-relative Macular Degeneration (AMD) and atypical Haemolytic Uraemic Syndrome (aHUS). A series research will be conduct include the protein structure analysis, gene analysis, and computational modelling. 
-</p>
+
 ## Education
 - **University College London**, Ph.D in Division of Medicine.
 <br>_Jan 2018 — Jan 2021_  
