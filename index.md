@@ -19,12 +19,16 @@ Hi, I am a Ph.D student in the [Department of Structure and Molecular Biology](h
 <br>_Sep 2011 — Sep 2013_
 
 ## Research
+- **M.Sc Research project**
+<br>_Mar 2016 — Aug 2016_
+<br> **Title** Effect of N-glycosylation on the dimerization of complement Factor H and its SCR-17/18 domains
+- **B.Sc Research Project**
+<br>_Dec 2014 - Apr 2015_
+<br> **Title** Standards for absolute quantification of proteins by mass spectrometry
 
-## Publications
 
 ## Contacts
 
-- Mobile: 
 - Email: xingaouk@gmail.com
 
 ## Links
