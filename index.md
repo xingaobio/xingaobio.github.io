@@ -4,26 +4,19 @@ layout: default
 
 # About Me
 
-Hi I'm Xin Gao.
+Hi, I am a Ph.D student in the [Department of Structure and Molecular Biology](https://www.ucl.ac.uk/biosciences/departments/smb) at University College london. Currently, I focus on the effect of N-glycosylation on the dimerization of complement Factor H and its SCR-17/18 domains complement proteins which associated with inflammatory diseases, like Age-relative Macular Degeneration (AMD) and atypical Haemolytic Uraemic Syndrome (aHUS). A series research will be conduct include the protein structure analysis, gene analysis, and computational modelling. 
 
 ## Education
-
 - **University College London**, Ph.D in Division of Medicine.
-<br>_Jan 2018 — Jan 2021_
-<br>I focus on the effect of N-glycosylation on the dimerization of complement Factor H and its SCR-17/18 domains complement proteins which associated with inflammatory diseases, like Age-relative Macular Degeneration (AMD) and atypical Haemolytic Uraemic Syndrome (aHUS). A series research will be conduct include the protein structure analysis, gene analysis, and computational modelling.
-  
+<br>_Jan 2018 — Jan 2021_  
 - **University College London**  M.Sc in Drug Design
 <br>_Sep 2015 - Oct 2016_
-<br>The principles of Computer-Aided Molecular Design in the medicine area were studied. Ralated modules: Target Identification, Biological Molecules As Therapeutics – Antibodies, Biophysical Screening Methods, Fragment Based Drug Design, Cheminformatics And Molecular Modelling, Si-RNA And Stem Cells, Protein NMR and Phenotypic Screening.
- 
+<br>The principles of Computer-Aided Molecular Design in the medicine area were studied. Ralated modules: Target Identification, Biophysical Screening Methods, Fragment Based Drug Design, Cheminformatics And Molecular Modelling.
 - **University of Liverpool**, B.Sc in Molecular Biology
 <br>_Sep 2013 — Sep 2015_
-<br>Studying the principles of molecular biology, and its application of scientific research, diagnostics and biotechnology. Familiar with the principles of cell signalling, genomics, cancer and proteomics, with strong skills in informatics and quantitative skills.
- 
+<br>Studying the principles of molecular biology and its application of scientific research, diagnostics and biotechnology. 
 - **Xi'an Jiangtong-Liverpool University**, Biological Science B.Sc
 <br>_Sep 2011 — Sep 2013_
-<br>My degree has been split between China and the United Kingdom. I have a broad international knowledge of life science, scientific culture and practice.
-
 
 ## Research
 
