@@ -21,10 +21,10 @@ Hi, I am a Ph.D student in the [Department of Structure and Molecular Biology](h
 ## Research
 - **M.Sc Research project**
 <br>_Mar 2016 — Aug 2016_
-<br> **Title** Effect of N-glycosylation on the dimerization of complement Factor H and its SCR-17/18 domains
+<br> **Title** :Effect of N-glycosylation on the dimerization of complement Factor H and its SCR-17/18 domains
 - **B.Sc Research Project**
 <br>_Dec 2014 - Apr 2015_
-<br> **Title** Standards for absolute quantification of proteins by mass spectrometry
+<br> **Title** :Standards for absolute quantification of proteins by mass spectrometry
 
 
 ## Contacts
